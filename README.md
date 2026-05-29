@@ -1,4 +1,16 @@
-
+Here are some ideas to get you started:
+# 💻 Tech Stack:
+# 📊 GitHub Stats:
+🔭 I’m currently working on nit patna as an intern
+- 🌱 I’m currently learning AI & ML
+- 👯 I’m looking to collaborate on scope
+- 🤔 I’m looking for help with mobile application
+- 💬 Ask me about collabration and tech related
+- 📫 How to reach me: ayushigupta3675@gmail.com
+- 😄 Pronouns: Ayushi mam
+- ⚡ Fun fact: I love tech
+-->
+## 🏆 GitHub Trophies
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imayushigupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushigupta3675@gmail.com) 
 
