@@ -1,4 +1,4 @@
-Here are some ideas to get you started:
+Hello👋 it's me your Ayushi😇
 # 💻 Tech Stack:
 # 📊 GitHub Stats:
 🔭 I’m currently working on nit patna as an intern
