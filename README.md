@@ -10,7 +10,7 @@ Hello👋 it's me your Ayushi😇
 - 😄 Pronouns: Ayushi mam
 - ⚡ Fun fact: I love tech
 -->
-## 🏆 GitHub Trophies
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imayushigupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushigupta3675@gmail.com) 
 <!---- Snake Game Repo View ---->
@@ -23,8 +23,6 @@ Hello👋 it's me your Ayushi😇
 ![](https://streak-stats.demolab.com/?user=imayushigupta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=imayushigupta&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imayushigupta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
